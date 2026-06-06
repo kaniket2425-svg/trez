@@ -76,7 +76,7 @@ if(form){
  
   if (islander) {
     // ✅ lander → redirect
-    const redirectUrl = "https://linksummit.site/"; // always use full URL
+    const redirectUrl = "https://boostalliance.online/"; // always use full URL
  
     if (yes) yes.addEventListener('click', () => {
       window.location.href = redirectUrl;
